@@ -3,11 +3,11 @@
   "description": "Javascript WhatsApp bot made by MR-SHABAN",
   "logo": "https://i.ibb.co/qYtzFsVp/shaban-md.jpg",
   "keywords": ["SHABAN-MD"],
-  "success_url": "/",
+  "success_url": "SHABAN-MD~OJViXYQa#F0aukp-Pp23u1pK08idTiBrLF-ksIX8IBpG4_D7kuT0
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {SHABAN-MD~OJViXYQa#F0aukp-Pp23u1pK08idTiBrLF-ksIX8IBpG4_D7kuT0
       "description": "Put the session-id here.",
       "required": true,
       "value": ""
